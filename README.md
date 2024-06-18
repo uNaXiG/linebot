@@ -16,9 +16,9 @@
 
 ## 如何使用
 
-- **每日凌晨12:00 (每6小時) 執行/Weather/GetWeather.py。建議可自行設計為固定時間自動執行。
-- **app.py中的line_api等兩變數請自行輸入自己的Line token等
-- **GetWeather.py中的token亦同。
+- 每日凌晨12:00 (每6小時) 執行/Weather/GetWeather.py。建議可自行設計為固定時間自動執行。
+- app.py中的line_api等兩變數請自行輸入自己的Line token等
+- GetWeather.py中的token亦同。
 
 ## 資料庫來源
 - [交通部中央氣象局開放式資料庫](https://opendata.cwa.gov.tw/dataset/all/F-D0047-091)
