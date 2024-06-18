@@ -17,10 +17,9 @@
 ## 使用畫面截圖
 
 以下是實際使用畫面截圖：
-
-![Weather Query](img.jpg)
-![Movie Schedule Query](img2.jpg)
-![Combined Features](img3.jpg)
+(images/img.jpg)
+(images/img1.jpg)
+(images/img2.jpg)
 
 ## Demo影片
 
