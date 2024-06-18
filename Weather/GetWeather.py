@@ -5,7 +5,7 @@ import requests
 import csv
 import os
 
-token = 'CWA-7596C3C2-C806-4F3C-95F7-CD068F6996B1'
+token = 'XXX'
 def Get_Raw_Data(dataID):    
     URL = 'https://opendata.cwa.gov.tw/api/v1/rest/datastore/' + dataID + '?Authorization=' + token + '&format=json'
     r = requests.get(URL)
