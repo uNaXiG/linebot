@@ -17,10 +17,11 @@
 ## 使用畫面截圖
 
 以下是實際使用畫面截圖：
-(images/img.jpg)
-(images/img1.jpg)
-(images/img2.jpg)
+
+![Query](images/img.jpg)
+![Query](images/img1.jpg)
+![Query](images/img2.jpg)
 
 ## Demo影片
 
-[詳細Demo影片](youtube-link)
+[詳細Demo影片](https://www.youtube.com/shorts/-zUP7ksWFlQ)
