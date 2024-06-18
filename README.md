@@ -14,6 +14,10 @@
 - **LINE Bot API**：用於與LINE平台進行互動，接收訊息並回覆。
 - **BeautifulSoup**：用於爬取天氣資訊及電影時刻表的網頁數據。
 
+## 資料庫來源
+- [交通部中央氣象局開放式資料庫](https://opendata.cwa.gov.tw/dataset/all/F-D0047-091)
+
+
 ## 使用畫面截圖
 
 以下是實際使用畫面截圖：
