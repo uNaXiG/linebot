@@ -155,8 +155,8 @@ def SearchMovieId():
     return m_id_str
         
         
-line_bot_api = LineBotApi('KHNmxSWhk/SqBzgmrH/CQsFAKfn1Lo1ORJrizExW/++iiBs+fqBypk9keWYfxbZMV7Y+guJiOnN/iRGGkpwLhtuMg0GrIr/xFbOw99JlrNE79VjrK5vv5TEOiwrE0TVbg8OzK+aQeTvtxRPyhdEswgdB04t89/1O/w1cDnyilFU=')
-handler = WebhookHandler('b74870847ae16a1d49c263b1db24b733')
+line_bot_api = LineBotApi('')
+handler = WebhookHandler('')
 
 @app.route("/callback", methods=['POST'])
 def callback():
@@ -215,7 +215,6 @@ line_bot_api.push_message(to, TextSendMessage(text = "搜尋 " + s + " 的天氣
 def homepage():
     return 'Hello, World!'
 
-#line_bot_api = LineBotApi('8QLSwitsABbrHwpop6wedRbI5RW3kam6lThsY4i35O9WwddiP4zRaiB9W5NaOlM4os421PsFQvqRrNlZzFp+ltJQVpXRKs9xPhWmVti5TU0OfV4DeZYfZ0vDEIu0ppt8b/h4vV0VVqcF9MQrO34vxAdB04t89/1O/w1cDnyilFU=')
 '''=================Main==================''' 
 if __name__ == "__main__":    
     PassFileToList()
